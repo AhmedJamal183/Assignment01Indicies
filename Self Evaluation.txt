@@ -1,0 +1,19 @@
+Ahmed Jamal
+F00534171
+
+1. How long did you spend on this assignment?
+
+Approx 2 Hours
+
+2. Based on your effort, what letter grade would you say you earned?
+
+Grade A
+
+
+3. Based on your solution, what letter grade would you say you earned?
+
+Grade A
+
+4. Provide a summary of what doesn't work in your solution, along with an explanation of how you attempted to solve the problem and where you feel you struggled.
+
+To solve the problem I first sort the array then point front of the array & rear to end of the array. Loop through array until front less than rear. Sum up array[front] + array[rear] and check if it matches to target we are looking for.
